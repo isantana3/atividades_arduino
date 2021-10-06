@@ -1,2 +1,2 @@
-# atividades_arduino
-Aqui neste repositório estarei adicionando arquivos feitos através da IDE do arduíno que estou programando como parte de um processo de aprendizado para desenvolver para o dispositivo
+# Atividades de programação em Arduíno
+Soluções para atividades de aprendizado em programação para Arduíno
